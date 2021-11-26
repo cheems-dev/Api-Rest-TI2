@@ -1,5 +1,3 @@
-Pagina web de C.C para la **_semana de la Computación_**
-
 ## Comenzando **🚀**
 
 ---
